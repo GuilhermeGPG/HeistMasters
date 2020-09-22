@@ -1,4 +1,4 @@
-extends "res://Character/Template/CharacterTemplate.gd"
+extends "res://Scenes/Character/Template/CharacterTemplate.gd"
 
 var motion = Vector2()
 
